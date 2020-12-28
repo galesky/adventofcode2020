@@ -1,0 +1,7 @@
+{
+  "module": "commonjs",
+  "compilerOptions": {
+    "outDir": "build",
+    "target": "ES2020"
+  }
+}

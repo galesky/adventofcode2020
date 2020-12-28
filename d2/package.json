@@ -1,0 +1,13 @@
+{
+  "name": "d1",
+  "version": "1.0.0",
+  "description": "day 1 advent of code",
+  "main": "d_1.ts",
+  "scripts": {
+    "test": "test",
+    "build": "tsc",
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
